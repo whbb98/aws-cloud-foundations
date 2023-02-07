@@ -2,7 +2,7 @@
 
 ## Welcome
 
-![welcome](screenshots/slides/slide1.JPG)
+![welcome](screenshots/slides/slide1.jpg)
 
 ## Introduction
 
